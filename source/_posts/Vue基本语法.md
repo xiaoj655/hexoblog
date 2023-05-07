@@ -1,5 +1,5 @@
 ---
-title: VUE-animation
+title: VUE基本语法
 tags:
   - VUE
 categories:
